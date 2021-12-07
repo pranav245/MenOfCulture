@@ -19,7 +19,7 @@ MONGO_URI = mongodb://localhost:27017/MenOfCulture
 JWT_SECRET = 'secretekey'
 ```
 
-### step 3: import data to database
+### Step 3: import data to database
 
 run mongo server first and then run below command in root folder
 
