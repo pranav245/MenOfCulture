@@ -26,7 +26,19 @@ run mongo server first and then run below command in root folder
 ```
 # Import data
 npm run data:import
-npm run dev
+```
+```
+# To run project
+To run both backend and frontend:
+npm run dev 
+
+To run only backend:
+npm start
+
+To run only frontend:
+cd frontend
+npm start
+
 ```
 ```
 Sample User Logins
