@@ -1,4 +1,4 @@
-This is MenOfCulture Mern Project for the CourseCS6314
+This is MenOfCulture developed using MERN Stack
 
 Steps to run a project:
 
@@ -26,6 +26,7 @@ run mongo server first and then run below command in root folder
 ```
 # Import data
 npm run data:import
+npm run dev
 ```
 ```
 Sample User Logins
